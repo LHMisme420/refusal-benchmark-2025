@@ -46,4 +46,4 @@ GPU recommended (Colab free tier works for 7B models). ~10-30 mins per full run.
 ## License
 MIT—fork freely.
 
-*Built by [YOUR_USERNAME] with ❤️ for safe AI. Star if it helps!*
+*Built by LHMISME420 with ❤️ for safe AI. Star if it helps!*
